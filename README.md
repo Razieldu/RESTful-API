@@ -1,3 +1,2 @@
-# RESTful-API的基本架構-
-
+# RESTful-API的基本架構
 HTML verb:GET,POST,PUT,PATCH,DELETE
