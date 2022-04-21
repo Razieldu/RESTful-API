@@ -1,1 +1,3 @@
-RESTful-API的基本架構建立
+RESTful-API的基本架構建
+
+HTML verb:GET,POST,PUT,PATCH,DELETE
